@@ -18,3 +18,6 @@ ML4Science Assignment
 
 
 ![problem_statement](https://user-images.githubusercontent.com/24211231/212101787-250f8516-9ccb-4262-8abe-ead5b249b2cc.png)
+
+
+For running the notebooks, modify the code to give path to your data and saved model.
